@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+figcaption {
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+figure {
+    display: inline-block;
+    margin: 10px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: 2px solid white;
+    font-size: 18px;
+    
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid white;
+}
